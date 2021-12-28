@@ -3,6 +3,6 @@
 
 # Others
 log
+log/
 logs
-*/log/*
-*/logs/*
+logs/
