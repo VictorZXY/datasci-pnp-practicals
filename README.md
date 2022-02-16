@@ -1,4 +1,4 @@
-# CST Part III ata Science: Principles and Practice Practicals 2020
+# CST Part III Data Science: Principles and Practice Practicals 2020
 
 Six short practicals contributing 20% to the final mark:
 
